@@ -4,7 +4,6 @@ import ServiciosImg from '@/components/ServiciosImg';
 import Somosludiclab from '@/components/Somos';
 import Servicios from '@/components/Servicios';
 import Elementos from '@/components/Elementos';
-import Contacto from '@/components/Contacto';
 
 const Page: React.FC = () => {
   return (
