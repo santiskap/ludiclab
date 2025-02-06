@@ -23,6 +23,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: 'Ludiclab',
   description: 'Transformando realidades a través de la actitud lúdica',
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
